@@ -15,26 +15,4 @@ alias r="rm"
 alias ls="exa"
 alias ll="ls -l"
 alias la="ls -la"
-
-# school 
-export SCHOOL="/home/nambrosini/Dropbox/School/02"
-export ADS=$SCHOOL/ADS
-export COM=$SCHOOL/COM
-export KT=$SCHOOL/KT
-export MANIT=$SCHOOL/MANIT
-export MLAIT=$SCHOOL/MLAIT
-export PROG2=$SCHOOL/PROG2
-export PROGC=$SCHOOL/PROGC
-export PSIT2=$SCHOOL/PSIT2
-export WEB2=$SCHOOL/WEB2
-
-alias ads="cd $ADS"
-alias com="cd $COM"
-alias kt="cd $KT"
-alias manit="cd $MANIT"
-alias mlait="cd $MLAIT"
-alias prog="cd $PROG2"
-alias progc="cd $PROGC"
-alias psit="cd $PSIT2"
-alias web="cd $WEB2"
 alias f="fuck"
