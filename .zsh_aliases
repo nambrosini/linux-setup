@@ -1,15 +1,4 @@
-# git
-alias gs="git status"
-alias gc="git clone"
-alias gm="git commit -m"
-alias gp="git push"
-alias ga="git add"
-alias gau="git add -u"
-alias gr="git rm"
-
 # shortcut
-alias mkd="mkdir"
-alias m="mv"
 alias c="cp"
 alias r="rm"
 alias ls="exa"
